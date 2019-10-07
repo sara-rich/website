@@ -1,26 +1,10 @@
 ---
 templateKey: index-page
-title: build
 image: /img/home-jumbotron.jpg
-heading: mainpitch2?
-subheading: サブタイトル
-mainpitch:
-  title: mainpitch
-  description: >
-    description1.
-description: >-
-  description2.
 intro:
-  blurbs:
-    - image: /img/coffee.png
-      text: >
-        Text.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    text
 main:
   heading: Great coffee with no compromises
   description: >
