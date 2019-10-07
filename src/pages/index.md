@@ -2,8 +2,8 @@
 templateKey: index-page
 title: build
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: mainpitch2?
+subheading: サブタイトル
 mainpitch:
   title: mainpitch
   description: >
