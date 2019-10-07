@@ -1,0 +1,13 @@
+---
+templateKey: blog-post
+title: タイトル
+date: 2019-10-07T00:00:00.000Z
+featuredpost: false
+featuredimage: /img/flavor_wheel.jpg
+description: 説明
+tags:
+  - flavor
+  - tasting
+---
+
+テスト記事
